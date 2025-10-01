@@ -302,7 +302,7 @@ export default function Home() {
           >
             <h2 className="text-4xl font-bold mb-4">Ready to Transform Your Supply Chain?</h2>
             <p className="text-xl text-muted-foreground mb-8">
-              Let's discuss how we can accelerate your partner onboarding and modernize your integration architecture.
+              Let&apos;s discuss how we can accelerate your partner onboarding and modernize your integration architecture.
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
